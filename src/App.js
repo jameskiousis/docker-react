@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         If 2 + 2 = 4, then you + me = 4eva lololol
+         General Kenobi
         </p>
         <a
           className="App-link"
